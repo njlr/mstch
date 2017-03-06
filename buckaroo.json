@@ -1,0 +1,6 @@
+{
+  "name": "mstch",
+  "dependencies": {
+    "boost-variant": "1.63.0"
+  }
+}
